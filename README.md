@@ -1,0 +1,2 @@
+# Computer_vision
+This repository Consist of All beginners Image Dataset and there classification/segmentation solutions using Deep Learning. Some datasets maybe covered using different libraries like Tensorflow, Pytorch, Keras, OpenCV, Numpy, Pandas, etc. The following are coustom Written codes using standard ML architectures. To access the Code, Just open the Folder for the following Dataset and Run The .ipynb file.
