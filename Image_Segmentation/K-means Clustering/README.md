@@ -1,8 +1,8 @@
-K-means Clustering
+# K-means Clustering
 
 This algorithems objective is to perform clustering, to minimize the sum of the squared distance between all points and the cluster center.
 
-The main Idea is to:
+### The main Idea is to:
 
 1. Choose the number of clusters K.
 2. Select at random K points, the centroids(not necessarily from your dataset).
