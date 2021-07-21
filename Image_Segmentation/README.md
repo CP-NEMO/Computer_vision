@@ -37,3 +37,9 @@ A variety of other approaches to perform image segmentation have been developed 
 solve segmentation problems in specific application areas.
 
 So let us start with one of the clustering-based approaches in Image Segmentation which is K-Means clustering.
+
+
+# Example Image
+![image-9-1](https://user-images.githubusercontent.com/30102047/126491804-f621a747-b17f-4eab-a2bc-4442759ccd7f.png)
+
+In the above image you can see the different clusters of colors in the image, these clusters are formed by image segmentation and These segmentations lead to better classification of objects in the image.
