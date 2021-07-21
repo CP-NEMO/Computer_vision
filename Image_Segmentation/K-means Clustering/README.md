@@ -29,3 +29,4 @@ This algorithems objective is to perform clustering, to minimize the sum of the 
 # Refrence Read:
 * https://www.google.com/urlsa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiUp4HKofTxAhU7_3MBHVDADkQQFjACegQIBxAD&url=https%3A%2F%2Fcyberleninka.org%2Farticle%2Fn%2F501681.pdf&usg=AOvVaw2tF_tcQiDXKoxa5JtesY1T
 * https://www.sciencedirect.com/science/article/pii/S089571771200369X
+* https://krishisanskriti.org/vol_image/18Dec201509122622%20%20%20%20%20%20%20%20%20%20%20%20%20N%20Dhanachandra%20%20%20%20%20%20%20%20%20%20%20%20%20%2068-72.pdf
